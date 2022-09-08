@@ -2,10 +2,10 @@
 name: Quinn Schoenmakers
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: Hey! Dit zijn alle accounts waar ik ben te vinden.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/297234544_619760819465820_8129508935666157877_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=XYd0IiKtJ7IAX9suWIH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-0ioLgTRtvbXa3bWXTHukduwauyP5A-rWYbSqmSsFJng&oe=63218209&_nc_sid=8fd12b
+Image_URL: https://www.linkpicture.com/q/Quinn-s-pfp.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://wallpaperaccess.com/full/346806.jpg
@@ -17,7 +17,7 @@ links:
     
     # FACEBOOK
   - Name: Facebook
-    URL: https://www.facebook.com
+    URL: 
     Username: harsh98trivedi
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
@@ -25,14 +25,14 @@ links:
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: quinn.schoenmakers
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
-    Username: harsh98trivedi
+    Username: QSchoenmakers
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
@@ -52,7 +52,7 @@ links:
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/channel
+    URL: 
     Username: UCS3zvA_2r1iGT7MB3NVCGAw
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
@@ -60,13 +60,13 @@ links:
     # GITHUB
   - Name: GitHub
     URL: http://github.com
-    Username: harsh98trivedi
+    Username: Quinn-nl
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
+    URL: 'qschoenmakers@gmail.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
@@ -118,7 +118,7 @@ links:
     # SNAPCHAT
   - Name: Snapchat
     URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
+    Username: 'qs1608'
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
@@ -126,7 +126,7 @@ links:
     # STEAM
   - Name: Steam
     URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
+    Username: 'Qgamer2007'
     Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
@@ -177,11 +177,11 @@ links:
     Text_Color: '#ffffff'
 
     # SPOTIFY
-  - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
-    Color: '#1DB954'
-    Icon-Class: fab fa-spotify
+  # Name: Spotify
+  # URL: http://open.spotify.com/user
+  # Username: 314ihryk3edvtusti6il3oy3x5da
+  # Color: '#1DB954'
+  # Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
   - Name: SoundCloud
