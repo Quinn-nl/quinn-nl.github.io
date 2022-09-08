@@ -1,14 +1,14 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Quinn Schoenmakers
 
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://www.gravatar.com/avatar/0d73468bd0b0258eb61d9358352ecb7b?s=500
+Image_URL: https://scontent-ams2-1.cdninstagram.com/v/t51.2885-19/297234544_619760819465820_8129508935666157877_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_ohc=XYd0IiKtJ7IAX9suWIH&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-0ioLgTRtvbXa3bWXTHukduwauyP5A-rWYbSqmSsFJng&oe=63218209&_nc_sid=8fd12b
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://wallpaperaccess.com/full/346806.jpg
 
 # SOCIAL MEDIA
 links:
@@ -242,7 +242,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: ''
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
